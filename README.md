@@ -2,7 +2,7 @@
 - Explore the features and knowledge about the ecommerce dataset, then use the Python language to explore information, analyze data variables, and use tools like Excel and Power BI to present a dashboard and find insights from E-commerce data.
 ## 2.PROJECT INFORMATION
 - Step 1: Explore the features and knowledge about the ecommerce dataset
-  customer_city	city of customer
+  \\customer_city	city of customer
   customer_country	country of customer
   customer_fname	first name of customer
   customer_id	customer id
