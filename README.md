@@ -5,8 +5,10 @@
 - Step 2: Using the Python language to explore information, analyze data variables
   (https://github.com/PhungThien63f/Ecommerce/blob/main/Ecommerce.ipynb)
 - Step 3: Using tools like Excel and Power BI to present a dashboard and find insights from data
+  
   - Excel
     ![markdown](https://github.com/PhungThien63f/Ecommerce/blob/main/Excel.png)
+    
   - Power BI
     ![markdown](https://github.com/PhungThien63f/Ecommerce/blob/main/Power_BI.png)
  
