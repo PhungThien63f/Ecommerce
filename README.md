@@ -19,6 +19,13 @@
 - From the constructed dashboard, we can grasp the business situation of the e-commerce platform over the past two years, 2016 and 2017.
   - For the dashboard constructed using Excel:
   - For the dashboard constructed using Power BI:
+    
+    - In the Puerto Rico region in 2016, revenue from the beginning of the quarter increased significantly from $179M to $190M despite a decrease in the number of orders in the last quarter.
+   - In 2017, in this region: Revenue increased, but not significantly in the second and third quarters, however, it surged in the last quarter of the year.
+   - The cities with the most customers in both years were the same: Vega Baja, Yauco, and Toa Baja.
+ 
+   - In United Sates region in 2016
+  
 ### 2.4 Next steps
 
   
