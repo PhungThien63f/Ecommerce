@@ -19,7 +19,7 @@
 - From the constructed dashboard, we can grasp the business situation of the e-commerce platform over the past two years, 2016 and 2017.
   - For the dashboard constructed using Excel:
   - For the dashboard constructed using Power BI:
-
+### 2.4 Next steps
 
   
  
