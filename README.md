@@ -27,7 +27,6 @@
 
     - The top cities with the highest number of orders were large cities such as York, Ypsilanti, and Zanesville.
 ### 2.4 Next steps
-
      - In the Puerto Rico region, continue to strengthen promotional strategies and advertising in major cities and for products with high consumption rates. Experiment with campaigns in other cities and add more incentives to stimulate customer purchases.
      - In the United States region, consider intensifying campaigns in the second quarter of next year, as data shows that customers tend to make more purchases during the months in the second quarter.
   
