@@ -3,7 +3,7 @@
 - Explore the features and knowledge about the ecommerce dataset, then use the Python language to explore information, then apply machine learning to cluster customer, and use tools like Excel and Power BI to present a dashboard and find insights from E-commerce data.
 ## 2.PROJECT INFORMATION
 ### 2.1 Objective
-- Usinng machine learning to clustering customer to recommendation for campaing next year.
+- Usinng machine learning to clustering customer to recommendation for campaing in the next year.
 - Analyze the business situation of the e-commerce platform, from which we can propose future projects or business plans for the next year.
 ### 2.2 Project Steps
 - Step 1: Explore the features and knowledge about the ecommerce dataset
