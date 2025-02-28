@@ -15,7 +15,7 @@
     ![markdown](https://github.com/PhungThien63f/Ecommerce/blob/main/Excel.png)
     
   - #### Power BI
-    ![markdown](https://github.com/PhungThien63f/Ecommerce/blob/main/Power_BI.png)
+    ![markdown](https://github.com/PhungThien63f/Ecommerce/blob/main/PBI.png)
 ### 2.3 Conclusion
 - From the constructed dashboard, we can grasp the business situation of the e-commerce platform over the past two years, 2016 and 2017.
   - For the dashboard constructed using Power BI:
