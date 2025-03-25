@@ -35,9 +35,11 @@
     ![markdown](https://github.com/PhungThien63f/Ecommerce/blob/main/Dash(3).png)
 - From the constructed dashboard, we can grasp the business situation of the e-commerce platform over the past two years, 2016 and 2017.
   - For the dashboard constructed using Power BI:
+  - 
     **Puerto Rico**
     - In the Puerto Rico region in 2016, Profit from the beginning of the quarter increased significantly despite a decrease in the number of orders in the last quarter.
     - In 2017, in this region: Profit fluctuated across quarters due to the varying number of orders in each quarter.
+      
     **United States**
     - In the United States region in 2016 and 2017, profit fluctuated across the quarters of the year. However, the highest profit in both years was in the second quarter.
     #### Next steps
