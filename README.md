@@ -8,8 +8,8 @@
 ### Project Steps
 - Step 1: Explore the features and knowledge about the ecommerce dataset
 - Step 2: Use the Python language to explore information and apply machine learning to cluster customer.
+  [Ecommerce Analysis.ipynb](https://github.com/PhungThien63f/Ecommerce/blob/main/Ecommerce.ipynb)
   
-  [Ecommerce Analysis](https://github.com/PhungThien63f/Ecommerce/blob/main/Ecommerce.ipynb)
     ![markdown](https://github.com/PhungThien63f/Ecommerce/blob/main/cluster_customer.png)
 
   #### Conlusion
