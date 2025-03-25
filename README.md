@@ -20,10 +20,10 @@
 
 - Step 3: Using tools like Excel and Power BI to present a dashboard and find insights from data
   
-  - #### Excel
+   #### Excel
     ![markdown](https://github.com/PhungThien63f/Ecommerce/blob/main/Excel.png)
     
-  - #### Power BI
+   #### Power BI
   - ##### Page Overview
     ![markdown](https://github.com/PhungThien63f/Ecommerce/blob/main/Dash(1).png)
   - ##### Page Details
