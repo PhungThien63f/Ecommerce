@@ -14,8 +14,11 @@
 
   #### Conlusion
   Cluster 0 contains your most valuable customers who purchase frequently and spend the most.
+  
   Cluster 1 includes new or infrequent buyers, who might need engagement strategies (discounts, follow-ups).
+  
   Cluster 2 represents at-risk customers who haven’t purchased in a while. You can target them with retention campaigns.
+  
   Cluster 3 includes loyal customers with high spending potential but slightly lower than Cluster 0.
 
 - Step 3: Using tools like Excel and Power BI to present a dashboard and find insights from data
