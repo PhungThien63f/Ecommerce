@@ -18,7 +18,7 @@
   
 ### Step 3: **SQL Analytics**
 
-### Step 4:: Use the Python language to explore information and apply machine learning to cluster customer.
+### Step 4: Use the Python language to explore information and apply machine learning to cluster customer.
 
   ![Ecommerce Analysis.ipynb](https://github.com/PhungThien63f/Ecommerce/blob/main/Ecommerce.ipynb)
   
