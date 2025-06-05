@@ -13,12 +13,12 @@
 ## 2.2 Project Steps
 ### Step 1: Explore the features and knowledge about the ecommerce dataset
 
-## Step 2: Data Management
+### Step 2: Data Management
 - Designed a **Star Schema** with one fact table (`order`) and multiple dimension tables (`cus_dim`, `category_dim`, etc.).
   
-## Step 3: **SQL Analytics**
+### Step 3: **SQL Analytics**
 
-## Step 4:: Use the Python language to explore information and apply machine learning to cluster customer.
+### Step 4:: Use the Python language to explore information and apply machine learning to cluster customer.
 
   ![Ecommerce Analysis.ipynb](https://github.com/PhungThien63f/Ecommerce/blob/main/Ecommerce.ipynb)
   
@@ -33,7 +33,7 @@
   
   Cluster 3 includes loyal customers with high spending potential but slightly lower than Cluster 0.
 
-- Step 3: Using tools like Excel and Power BI to present a dashboard and find insights from data
+### Step 3: Using tools like Excel and Power BI to present a dashboard and find insights from data
   
    #### Excel
     ![markdown](https://github.com/PhungThien63f/Ecommerce/blob/main/image/Excel.png)
