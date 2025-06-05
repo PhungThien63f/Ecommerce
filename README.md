@@ -12,7 +12,7 @@
 - Analyze the business situation of the e-commerce platform, from which we can propose future projects or business plans for the next year.
 ## 2.2 Project Steps
 ### Step 1: Explore the features and knowledge about the ecommerce dataset
-
+![markdown](https://github.com/PhungThien63f/Ecommerce/blob/main/image/DataUnderstand.png)
 ### Step 2: Data Management
 - Designed a **Star Schema** with one fact table (`order`) and multiple dimension tables (`cus_dim`, `category_dim`, etc.).
   
