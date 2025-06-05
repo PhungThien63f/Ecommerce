@@ -16,7 +16,8 @@
 - Designed a **Star Schema** with one fact table (`order`) and multiple dimension tables (`cus_dim`, `category_dim`, etc.).
 ## Step 3: **SQL Analytics**
 ## Step 4:: Use the Python language to explore information and apply machine learning to cluster customer.
-  [Ecommerce Analysis.ipynb](https://github.com/PhungThien63f/Ecommerce/blob/main/image/Ecommerce.ipynb)
+
+  ![Ecommerce Analysis.ipynb](https://github.com/PhungThien63f/Ecommerce/blob/main/image/Ecommerce.ipynb)
   
     ![markdown](https://github.com/PhungThien63f/Ecommerce/blob/main/image/cluster_customer.png)
 
