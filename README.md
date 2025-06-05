@@ -8,9 +8,9 @@
 ### Project Steps
 - Step 1: Explore the features and knowledge about the ecommerce dataset
 - Step 2: Use the Python language to explore information and apply machine learning to cluster customer.
-  [Ecommerce Analysis.ipynb](https://github.com/PhungThien63f/Ecommerce/blob/main/Ecommerce.ipynb)
+  [Ecommerce Analysis.ipynb](https://github.com/PhungThien63f/Ecommerce/blob/main/image/Ecommerce.ipynb)
   
-    ![markdown](https://github.com/PhungThien63f/Ecommerce/blob/main/cluster_customer.png)
+    ![markdown](https://github.com/PhungThien63f/Ecommerce/blob/main/image/cluster_customer.png)
 
   #### Conlusion
   Cluster 0 contains your most valuable customers who purchase frequently and spend the most.
@@ -24,15 +24,15 @@
 - Step 3: Using tools like Excel and Power BI to present a dashboard and find insights from data
   
    #### Excel
-    ![markdown](https://github.com/PhungThien63f/Ecommerce/blob/main/Excel.png)
+    ![markdown](https://github.com/PhungThien63f/Ecommerce/blob/main/image/Excel.png)
     
    #### Power BI
   - ##### Page Overview
-    ![markdown](https://github.com/PhungThien63f/Ecommerce/blob/main/Dash(1).png)
+    ![markdown](https://github.com/PhungThien63f/Ecommerce/blob/main/image/Dash(1).png)
   - ##### Page Details
-    ![markdown](https://github.com/PhungThien63f/Ecommerce/blob/main/Dash(2).png)
+    ![markdown](https://github.com/PhungThien63f/Ecommerce/blob/main/image/Dash(2).png)
   - ##### Page Analysis
-    ![markdown](https://github.com/PhungThien63f/Ecommerce/blob/main/Dash(3).png)
+    ![markdown](https://github.com/PhungThien63f/Ecommerce/blob/main/image/Dash(3).png)
 - From the constructed dashboard, we can grasp the business situation of the e-commerce platform over the past two years, 2016 and 2017.
   - For the dashboard constructed using Power BI:
   - 
