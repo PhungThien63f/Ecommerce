@@ -6,20 +6,23 @@
 - Finally, interactive dashboards are created using Excel and Power BI to visualize KPIs and support data-driven decision-making.
 
 ## 2.PROJECT INFORMATION
-### 2.1 Objective
+## 2.1 Objective
 - Cleaning and transformation data using Python, designing a star schema for structured data storage, and exploring insights through SQL queries.  
 - Usinng machine learning to clustering customer to recommendation for campaing in the next year.
 - Analyze the business situation of the e-commerce platform, from which we can propose future projects or business plans for the next year.
-### 2.2 Project Steps
-## Step 1: Explore the features and knowledge about the ecommerce dataset
+## 2.2 Project Steps
+### Step 1: Explore the features and knowledge about the ecommerce dataset
+
 ## Step 2: Data Management
 - Designed a **Star Schema** with one fact table (`order`) and multiple dimension tables (`cus_dim`, `category_dim`, etc.).
+  
 ## Step 3: **SQL Analytics**
+
 ## Step 4:: Use the Python language to explore information and apply machine learning to cluster customer.
 
-  ![Ecommerce Analysis.ipynb](https://github.com/PhungThien63f/Ecommerce/blob/main/image/Ecommerce.ipynb)
+  ![Ecommerce Analysis.ipynb](https://github.com/PhungThien63f/Ecommerce/blob/main/Ecommerce.ipynb)
   
-    ![markdown](https://github.com/PhungThien63f/Ecommerce/blob/main/image/cluster_customer.png)
+  ![markdown](https://github.com/PhungThien63f/Ecommerce/blob/update/image/cluster_customer.png)
 
   #### Conlusion
   Cluster 0 contains your most valuable customers who purchase frequently and spend the most.
