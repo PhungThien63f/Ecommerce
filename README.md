@@ -11,6 +11,7 @@
 - Usinng machine learning to clustering customer to recommendation for campaing in the next year.
 - Analyze the business situation of the e-commerce platform, from which we can propose future projects or business plans for the next year.
 ## 2.2 Project Steps
+![markdown](https://github.com/PhungThien63f/Ecommerce/blob/main/image/Intro.png)
 ### Step 1: Explore the features and knowledge about the ecommerce dataset
 ![markdown](https://github.com/PhungThien63f/Ecommerce/blob/main/image/DataUnderstand.png)
 ### Step 2: Data Management
