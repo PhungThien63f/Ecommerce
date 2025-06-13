@@ -15,9 +15,14 @@
 ### Step 1: Explore the features and knowledge about the ecommerce dataset
 ![markdown](https://github.com/PhungThien63f/Ecommerce/blob/main/image/DataUnderstand.png)
 ### Step 2: Data Management
-- ERD for ecommerce platform
-![markdown](https://github.com/PhungThien63f/Ecommerce/blob/main/image/ERD_Diagram.png)
-- Designed a **Star Schema** with one fact table (`order`) and multiple dimension tables (`cus_dim`, `category_dim`, etc.).
+### ✅ Step 2: Data Management
+
+- Designed an **Entity-Relationship Diagram (ERD)** to model key entities in the e-commerce domain, such as customers, orders, products, pricing, and categories.  
+  ![ERD Diagram](https://github.com/PhungThien63f/Ecommerce/blob/main/image/ERD_Diagram.png)
+
+- Built a **Star Schema** to support analytical processing, including: **Fact Table** and **Dimension Tables**
+   
+
   
 ### Step 3: **SQL Analytics**
 
