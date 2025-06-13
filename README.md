@@ -21,6 +21,7 @@
   ![ERD Diagram](https://github.com/PhungThien63f/Ecommerce/blob/main/image/ERD_Diagram.png)
 
 - Built a **Star Schema** to support analytical processing, including: **Fact Table** and **Dimension Tables**
+  ![ERD Diagram](https://github.com/PhungThien63f/Ecommerce/blob/main/image/ERD_starscheme.png)
    
 
   
